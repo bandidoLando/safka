@@ -1,0 +1,39 @@
+{
+	"meta":{
+		"generated_timestamp":1510926844,
+		"requested_timestamp":1510869600,
+		"ref_url":"https:\/\/www.sodexo.fi\/jamk-musiikki",
+		"ref_title":"JAMK Fuuga \/ Musiikkikampus"},
+	"courses":[
+	{
+	"title_fi":"Mix &amp; Match Buffet",
+	"title_en":"Mix &amp; Match Buffet",
+	"category":"Mix & Match",
+	"price":"2,60 \/ 6,40 \/ 7,05",
+	"desc_fi":"Poimi lautaselle mit\u00e4 haluat  lounaslinjastosta",
+	"desc_en":"Create your plate in lunch line",
+	"desc_se":""
+	},
+	{
+	"title_fi":"Tomaattista peruna-papu-mozzarellavuokaa",
+	"title_en":"Tomato-based potato, bean and mozzarella casserole",
+	"category":"Vegetarian",
+	"price":"2,60 \/ 6,40 \/ 7,05",
+	"properties":"G, L",
+	"desc_fi":"",
+	"desc_en":"",
+	"desc_se":""},
+	{
+	"title_fi":"Broilerpy\u00f6ryk\u00e4t\/lihapy\u00f6ryk\u00e4t","title_en":"Chicken meatballs\/minced meat meatballs ","category":"Popular","price":"2,60 \/ 6,40 \/ 7,05","desc_fi":"","desc_en":"","desc_se":""},
+	{
+	"title_fi":"Kalapastaa","title_en":"Fish pasta","category":"Inspiring","price":"2,60 \/ 6,40 \/ 7,05","properties":"L","desc_fi":"","desc_en":"","desc_se":""},
+	{
+	"title_fi":"Kukkakaali-parsakaalikeittoa","title_en":"Cauliflower and broccoli soup","category":"Soup","price":"2,40 \/ 5,40 \/ 6,00","properties":"G, L","desc_fi":"","desc_en":"","desc_se":""},
+	{
+	"title_fi":"Lounaspatonki broilerit\u00e4ytteell\u00e4","title_en":"Lunch baguette filled with chicken","category":"Sandwich","price":"2,60 \/ 6,40 \/ 7,05","properties":"L","desc_fi":"","desc_en":"","desc_se":""},
+	{
+	"title_fi":"Katkarapu","title_en":"Schrimp","category":"Salad","price":"2,60 \/ 6,40 \/ 7,05","properties":"G, M","desc_fi":"","desc_en":"","desc_se":""},
+	{
+	"title_fi":"Marjajogurttia","title_en":"Berry yoghurt","category":"Sweet","price":"1,00 \/ 1,00 \/ 1,00","properties":"G, L","desc_fi":"","desc_en":"","desc_se":""}
+	]
+}

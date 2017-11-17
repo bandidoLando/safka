@@ -1,0 +1,53 @@
+{
+  "name": "menu",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "RestaurantName": {
+      "type": "string",
+      "required": true
+    },
+    "RestaurantUrl": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "LunchTime": {
+      "type": "string"
+    },
+    "lunch1": {
+      "type": "string",
+      "required": true
+    },
+    "lunch2": {
+      "type": "string"
+    },
+    "lunch3": {
+      "type": "string"
+    },
+    "soup": {
+      "type": "string"
+    },
+    "vege": {
+      "type": "string"
+    },
+    "desert": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string",
+      "required": true
+    },
+    "otherinfo": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,79 @@
+{
+  "RestaurantName": "Siltavouti",
+  "RestaurantUrl": "http://www.amica.fi/ravintolat/ravintolat-kaupungeittain/jyvaskyla/siltavouti/",
+  "PriceHeader": null,
+  "Footer": "Ruokalista muutokset mahdollisia. Hyvää ruokahalua!",
+  "MenusForDays": [
+    {
+      "Date": "2017-11-17T00:00:00+01:00",
+      "LunchTime": "10.30 - 13.00",
+      "SetMenus": [
+        {
+          "SortOrder": 0,
+          "Name": "Kasvislounas",
+          "Price": "7,90 €/2,60 €",
+          "Components": [
+            "Punajuuri-tattaripihvejä (* ,A ,L ,M)",
+            "Persilijajogurttikastiketta (A ,G ,L)",
+            "Curryperunoita (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas 2.",
+          "Price": "7,90/2,60€",
+          "Components": [
+            "Kebabhampurilainen ja tulista kebabkastiketta (A ,L ,M ,VS)",
+            "Maalaislohkoperunoita (G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Lounas 3.",
+          "Price": "9,20/4,95€",
+          "Components": [
+            "Porsaan sisäfileenoisetteja (* ,G ,L ,M)",
+            "Kermakastiketta (* ,A ,G ,L)",
+            "Maalaislohkoperunoita (G ,L ,M ,Veg)",
+            "Grillitomaatti (* ,G ,L ,M ,Veg)"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Keittolounas",
+          "Price": "7,90/2,60€",
+          "Components": [
+            "Juustoinen broilerikeitto     A, L, G, VS ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Salaattilounas",
+          "Price": "6,60/2,60€",
+          "Components": [
+            "Haloumjuustosalaatti       A, G ()"
+          ]
+        },
+        {
+          "SortOrder": 0,
+          "Name": "Jälkiruoka",
+          "Price": "1,60 €",
+          "Components": [
+            "Porkkanakakkua (A ,L)"
+          ]
+        }
+      ]
+    },
+    {
+      "Date": "2017-11-18T00:00:00+01:00",
+      "LunchTime": null,
+      "SetMenus": []
+    },
+    {
+      "Date": "2017-11-19T00:00:00+01:00",
+      "LunchTime": null,
+      "SetMenus": []
+    }
+  ],
+  "ErrorText": null
+}
